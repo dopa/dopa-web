@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF SYSTEM "http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="http://dopa.mn">
+    <dc:title>
+      Dopamine - A creative agency focused on fun, innovative,
+      gamified campaigns
+    </dc:title>
+    <dc:creator>
+      http://dopa.mn/bios/justin
+    </dc:creator>
+    <dc:subject>
+      gamification; zichermann; gabe zichermann; game design;
+      dopamine; game mechanics; gaming; game theory; creative;
+      agency; design; marketing; engagement; fun; funnovation;
+      infographics; development; new york; nyc; gsummit;
+      gamification co; justin schier; mike martoccia; dopamine
+      inc
+    </dc:subject>
+    <dc:description>
+      Gamification Agency headed by one of the worlds foremost
+      experts, Gabe Zichermann - Dopamine is a creative agency
+      focused on fun, innovative, gamified campaigns for
+      employees and consumers.
+    </dc:description>
+    <dc:publisher>
+      Dopamine Inc.
+    </dc:publisher>
+    <dc:contributor>
+      http://dopa.mn/bios/gabe
+    </dc:contributor>
+    <dc:date>
+      2011-08-01
+    </dc:date>
+    <dc:type>
+      Service
+    </dc:type>
+    <dc:format>
+      text/html; charset=utf-8
+    </dc:format>
+    <dc:format>
+      25336 bytes
+    </dc:format>
+    <dc:language>
+      en
+    </dc:language>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,87 @@
+@import "_variables";
+
+.round-8 { border-radius: 8px; }
+.round-12 { border-radius: 12px; }
+
+.w15 { background: rgba(255,255,255,0.25); }
+.b35 { background: rgba(0,0,0,0.35); color: #ccc; }
+
+#body {
+  background: #333;
+  text-align: center;
+}
+
+#bio {
+  margin:20px auto;
+  padding:10px;
+  display:inline-block;
+  position:relative;
+  text-align: left;
+}
+#bio h1 {
+  text-transform: lowercase;
+  font-size:4em;
+  margin:0 0 30px 0;
+  color: $yellow;
+}
+
+#bio h2 {
+  font-size: 220%;
+  color: $fuchsia;
+  margin: 0 0 10px 0;
+  text-transform: lowercase;
+}
+#bio h3 {
+  font-size: 150%;
+  color: $indianred;
+  margin: 0 0 10px 0;
+  text-transform: lowercase;
+}
+#bio h5 {
+  font-size: 150%;
+  color: $fuchsia;
+  margin: 20px 0 2px 0;
+  text-transform: lowercase;
+}
+
+#bio p {
+  font-size: 110%;
+  color: #000;
+  margin: 0;
+}
+
+#bio-contact {
+  //position:absolute;
+  //right:0;
+  //top:0;
+  padding:20px;
+  margin:10px 0 10px 10px;
+  width:250px;
+}
+#bio-contact a {
+  outline: none;
+}
+#bio-contact p {
+  color: #aaa;
+  text-transform: lowercase;
+}
+#bio-contact .icon-twitter-2 {
+  color: $blue;
+}
+#bio-contact .icon-twitter-2 span {
+  font-family: $fntBold;
+}
+#bio-text {
+  padding:15px 20px 20px 20px;
+  width:480px;
+  margin-bottom:20px;
+}
+#bio-text p {
+  color: $white;
+  line-height: 1.45;
+  font-family: 'Helvetica Neue', Helvetica;
+  font-weight: 400;
+}
+#bio a span {
+  vertical-align: top;
+}

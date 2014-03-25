@@ -1,0 +1,169 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('/webfonts/icomoon.eot');
+	src:url('/webfonts/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('/webfonts/icomoon.woff') format('woff'),
+		url('/webfonts/icomoon.ttf') format('truetype'),
+		url('/webfonts/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'icomoon';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-icon-email-01, .icon-icon-phone-01, .icon-icon-web-01, .icon-spinner, .icon-twitter, .icon-dopa-molecule-02, .icon-dopa-arrow-down-01, .icon-arrow-down, .icon-twitter-2, .icon-share, .icon-cloud, .icon-chat-alt-stroke, .icon-tag-stroke, .icon-dribbble, .icon-rocket, .icon-fire, .icon-heart, .icon-heart-2, .icon-close, .icon-dopa-labs-01, .icon-bars, .icon-wand, .icon-equalizer, .icon-cog, .icon-gamepad, .icon-pencil, .icon-lollipop, .icon-badge, .icon-lightning, .icon-fluorescent-01, .icon-shield, .icon-marquee, .icon-marker-01, .icon-chair-01, .icon-tsquare-01, .icon-dopa-arrow-right-02, .icon-cloudy, .icon-cloud-2, .icon-cloud-08, .icon-dna-01, .icon-bunsen-01, .icon-dopa-circle-arrow-up-01, .icon-dopa-circle-arrow-down-01, .icon-dopa-molecule-2013-03 {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-icon-email-01:before {
+	content: "\e000";
+}
+.icon-icon-phone-01:before {
+	content: "\e001";
+}
+.icon-icon-web-01:before {
+	content: "\e002";
+}
+.icon-spinner:before {
+	content: "\e003";
+}
+.icon-twitter:before {
+	content: "\e004";
+}
+.icon-dopa-molecule-02:before {
+	content: "\e006";
+}
+.icon-dopa-arrow-down-01:before {
+	content: "\e007";
+}
+.icon-arrow-down:before {
+	content: "\e008";
+}
+.icon-twitter-2:before {
+	content: "\e009";
+}
+.icon-share:before {
+	content: "\e00a";
+}
+.icon-cloud:before {
+	content: "\e00b";
+}
+.icon-chat-alt-stroke:before {
+	content: "\e00c";
+}
+.icon-tag-stroke:before {
+	content: "\e00d";
+}
+.icon-dribbble:before {
+	content: "\e00e";
+}
+.icon-rocket:before {
+	content: "\e00f";
+}
+.icon-fire:before {
+	content: "\e010";
+}
+.icon-heart:before {
+	content: "\e011";
+}
+.icon-heart-2:before {
+	content: "\e012";
+}
+.icon-close:before {
+	content: "\e013";
+}
+.icon-dopa-labs-01:before {
+	content: "\e014";
+}
+.icon-bars:before {
+	content: "\e015";
+}
+.icon-wand:before {
+	content: "\e016";
+}
+.icon-equalizer:before {
+	content: "\e017";
+}
+.icon-cog:before {
+	content: "\e018";
+}
+.icon-gamepad:before {
+	content: "\e01a";
+}
+.icon-pencil:before {
+	content: "\e01b";
+}
+.icon-lollipop:before {
+	content: "\e01d";
+}
+.icon-badge:before {
+	content: "\e01e";
+}
+.icon-lightning:before {
+	content: "\e01f";
+}
+.icon-fluorescent-01:before {
+	content: "\e020";
+}
+.icon-shield:before {
+	content: "\e021";
+}
+.icon-marquee:before {
+	content: "\e022";
+}
+.icon-marker-01:before {
+	content: "\e023";
+}
+.icon-chair-01:before {
+	content: "\e024";
+}
+.icon-tsquare-01:before {
+	content: "\e025";
+}
+.icon-dopa-arrow-right-02:before {
+	content: "\e027";
+}
+.icon-cloudy:before {
+	content: "\e026";
+}
+.icon-cloud-2:before {
+	content: "\e02a";
+}
+.icon-cloud-08:before {
+	content: "\e02b";
+}
+.icon-dna-01:before {
+	content: "\e005";
+}
+.icon-bunsen-01:before {
+	content: "\e019";
+}
+.icon-dopa-circle-arrow-up-01:before {
+	content: "\e01c";
+}
+.icon-dopa-circle-arrow-down-01:before {
+	content: "\e028";
+}
+.icon-dopa-molecule-2013-03:before {
+	content: "\e029";
+}
