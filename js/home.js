@@ -212,9 +212,9 @@
     // Load surprise founder images when user scrolls into founder area
     $('#bs6').on('entered',function(){
       preload([
-        'http://dii.cdn.dopa.mn/gabe-360-surprise-03@2x.jpg'
-       ,'http://dii.cdn.dopa.mn/justin-360-surprise-02@2x.jpg'
-       ,'http://dii.cdn.dopa.mn/mike-360-surprise-02@2x.jpg'
+        '/images/gabe-360-surprise-03@2x.jpg'
+       ,'/images/justin-360-surprise-02@2x.jpg'
+       ,'/images/mike-360-surprise-02@2x.jpg'
       ]);
     });
 

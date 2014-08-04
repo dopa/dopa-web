@@ -1542,31 +1542,52 @@ a.photo, a.photo:active, a.photo:visited {
   */ }
 
 .photo-gabe {
-  background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/gabe-360-02.jpg"); }
+  background-image: url("/images/gabe-360-02.jpg"); }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
     .photo-gabe {
-      background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/gabe-360-02@2x.jpg");
+      background-image: url("/images/gabe-360-02@2x.jpg");
       background-size: 360px 360px; } }
 
 .photo-justin {
-  background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/justin-360-02.jpg"); }
+  background-image: url("/images/justin-360-02.jpg"); }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
     .photo-justin {
-      background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/justin-360-02@2x.jpg");
+      background-image: url("/images/justin-360-02@2x.jpg");
       background-size: 360px 360px; } }
 
 .photo-mike {
-  background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/mike-360-02.jpg"); }
+  background-image: url("/images/mike-360-02.jpg"); }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
     .photo-mike {
-      background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/mike-360-02@2x.jpg");
+      background-image: url("/images/mike-360-02@2x.jpg");
       background-size: 360px 360px; } }
 
 .photo-ankit {
-  background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/ankit-2013-01-360x360-02.jpg"); }
+  background-image: url("/images/ankit-2013-01-360x360-02.jpg"); }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
     .photo-ankit {
-      background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/ankit-2013-01-360x360-02@2x.jpg");
+      background-image: url("/images/ankit-2013-01-360x360-02@2x.jpg");
+      background-size: 360px 360px; } }
+
+.photo-ivan {
+  background-image: url("/images/ivan-2014-01-600px.jpg"); }
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
+    .photo-ivan {
+      background-image: url("/images/ivan-2014-01-600px@2x.jpg");
+      background-size: 360px 360px; } }
+
+.photo-mak {
+  background-image: url("/images/mak-2014-01-600px.jpg"); }
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
+    .photo-mak {
+      background-image: url("/images/mak-2014-01-600px@2x.jpg");
+      background-size: 360px 360px; } }
+
+.photo-zeilend {
+  background-image: url("/images/dopa-zeilend-01-600x600.jpg"); }
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
+    .photo-zeilend {
+      background-image: url("/images/dopa-zeilend-01-600x600@2x.jpg");
       background-size: 360px 360px; } }
 
 /*
@@ -1574,24 +1595,24 @@ a.photo, a.photo:active, a.photo:visited {
 .photo-gabe:active, .photo-justin:active, .photo-mike:active { background-size: 60px 60px; background-repeat: repeat; }
 */
 .photo-gabe.surprise {
-  background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/gabe-360-surprise-03.jpg"); }
+  background-image: url("/images/gabe-360-surprise-03.jpg"); }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
     .photo-gabe.surprise {
-      background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/gabe-360-surprise-03@2x.jpg");
+      background-image: url("/images/gabe-360-surprise-03@2x.jpg");
       background-size: 360px 360px; } }
 
 .photo-justin.surprise {
-  background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/justin-360-surprise-02.jpg"); }
+  background-image: url("/images/justin-360-surprise-02.jpg"); }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
     .photo-justin.surprise {
-      background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/justin-360-surprise-02@2x.jpg");
+      background-image: url("/images/justin-360-surprise-02@2x.jpg");
       background-size: 360px 360px; } }
 
 .photo-mike.surprise {
-  background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/mike-360-surprise-02.jpg"); }
+  background-image: url("/images/mike-360-surprise-02.jpg"); }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
     .photo-mike.surprise {
-      background-image: url("http://56a5b8336213e7c54dd1-c0ee14320abc54841d0a880605ec2d21.r29.cf2.rackcdn.com/mike-360-surprise-02@2x.jpg");
+      background-image: url("/images/mike-360-surprise-02@2x.jpg");
       background-size: 360px 360px; } }
 
 .photo-founder h5 {
