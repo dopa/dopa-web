@@ -16,6 +16,11 @@
       });
     }
 
+    var today = new Date();
+    var year = today.getFullYear();
+
+    $('.copy-year').text(year);
+
 
     /* Button Spy - Page */
     $('#nav').onePageNav({
